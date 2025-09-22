@@ -11,8 +11,8 @@
 - **React**
   - [React](https://zh-hans.react.dev/) — React.js 中文官网
 - **组件库**
-  - [Element UI](https://element.eleme.cn/) — Element 组件
-  - [Ant Design](https://ant.design/) — Element 组件
+  - [Element UI](https://element.eleme.cn/) — Element 组件库
+  - [Ant Design](https://ant.design/) — React 组件库
 
 ## ⚙️ 后端
 
@@ -20,7 +20,7 @@
   - [Node.js](https://nodejs.org/) — Node.js 官方文档
   - [Express.js](https://expressjs.com/) — Node.js Web 框架
 - Java
-  - [Spring Framework](https://spring.io/projects/spring-framework) — Java Spring 框架
+  - [Spring](https://spring.io/projects) — Java Spring 框架
 
 ## 🗄 数据库
 
